@@ -24,7 +24,7 @@
 
 <div align="center">
     <audio controls> 
-        <source src="output/Podcast_apraxia.mp3" title="Podcast editado" type="audio/mp3">
+        <source src="output/Podcast_apraxia.mp3" type="audio/mp3">
     </audio>
 </div>
 
