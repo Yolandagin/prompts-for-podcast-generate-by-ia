@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/assets/openart-image_qvgNQ-Kg_1738133304629_raw.jpg"
     width="300"
 />
 </p>
