@@ -23,9 +23,7 @@
 </p>
 
 <div align="center">
-    <audio controls> 
-        <source src="output/Podcast_apraxia.mp3" type="audio/mp3">
-    </audio>
+    <audio src="output/Podcast_apraxia" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
